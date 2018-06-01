@@ -1,0 +1,80 @@
+.rav{
+    height: 100px;
+    background-color: rgb(190, 184, 184);
+}
+.rav ul li a{
+    color:black;
+    display: inline;
+    margin-left: 20px;
+    font-size: 30pt;
+}
+.rav ul li {
+    color: black;
+    display: inline;
+    margin-left: 20px;
+    
+    
+}
+.vob{
+    margin: auto;
+    width: 50%;
+    padding-left: 30%;
+   
+}
+.tup form input{
+width: 100%;
+
+
+
+}  
+.tup{
+    margin: auto;
+    width: 50%;
+}
+h1{
+    text-align: center;
+}
+img{
+    margin: auto;
+    
+    
+}
+table,th,td{
+    border: 5px solid red;
+}
+table{
+    margin: auto;
+    width: 50%;
+}
+.long-text{
+    height: 200px;
+}
+body{
+    background-image: url("simple-background.jpg");
+    background-size: cover;
+}
+footer{
+    border: 1px groove palevioletred;
+    background: rgb(185, 57, 67);
+    bottom: 0px;
+    width: 100%;
+    position: fixed;
+    vertical-align: middle;
+    text-align: center;
+    line-height: normal;
+    padding: 0;
+}
+.button{
+margin-top: 5%;
+height: 70px;
+background-color: rgb(185, 57, 67);
+font-size: 20px;
+font-weight: bold;
+
+}
+.name{
+    
+    margin: auto;
+    text-align: center;
+
+}
